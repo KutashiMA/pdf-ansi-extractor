@@ -142,5 +142,5 @@ Contributions are welcome! Please follow these steps:
 
 **Kutashi Muhammed**
 
--   **GitHub**: `[@KutashiMA](https://github.com/KutashiMA)`
--   **LinkedIn**: `[Muhammed Kutashi](https://www.linkedin.com/in/muhammed-kutashi-645a25243/)`
+-   **GitHub**: [@KutashiMA](https://github.com/KutashiMA)
+-   **LinkedIn**: [Muhammed Kutashi](https://www.linkedin.com/in/muhammed-kutashi-645a25243/)
